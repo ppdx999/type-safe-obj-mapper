@@ -1,5 +1,11 @@
 # Type Safe Object Mapper
 
+# Install
+
+```sh
+$ npm i type-safe-obj-mapper 
+```
+
 # Usage
 
 ```ts
